@@ -1,6 +1,6 @@
 # Record Store
 
-#### By _**Z Perez**_
+#### By _**Z Perez, Cameron Johnson, Rian Carter, Kyle Miller, Greg Khmara**_
 
 A backend web application for a library system.
 
